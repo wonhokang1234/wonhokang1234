@@ -10,7 +10,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C#](https://img.shields.io/badge/-C++-000000?style=flat&logo=c-sharp)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo&logo=css3)
