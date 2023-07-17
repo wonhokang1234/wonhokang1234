@@ -1,5 +1,7 @@
 ### Hi, I'm Wonho
 
+![Header](https://github.com/wonhokang1234/wonhokang1234/assets/20465403/400979be-a5d9-4c8e-a8a3-b785e341735a)
+
 - 😄 I'm a Electrical and Computer Eng. Grad from CMU with a Game Dev & Desgin Minor
 - 🔭 I’m currently working on 2D Platformer Game to publish on the AppStore
 - 👯 I’m interested in looking for a Job in Game Dev or Backend Software Dev
