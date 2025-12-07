@@ -1,6 +1,6 @@
 ### Hi, I'm Wonho!
 
-![github-header-image (3)](https://github.com/wonhokang1234/wonhokang1234/assets/20465403/5bc53b43-aeba-4c01-a622-c4eef7dc6b98)
+[github-header-image (3)](https://github.com/wonhokang1234/wonhokang1234/assets/20465403/5bc53b43-aeba-4c01-a622-c4eef7dc6b98)
 
 
 - 😄 I'm a Electrical and Computer Eng. Grad from CMU with a Game Dev & Desgin Minor
